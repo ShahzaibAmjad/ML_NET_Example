@@ -1,0 +1,12 @@
+Micro Accuracy: .905
+Macro Accuracy: .913
+ConfMat: 
+Confusion table
+                   ||========================
+PREDICTED          ||     0 |     1 |     2 | Recall
+TRUTH              ||========================
+0.     Iris-setosa ||    17 |     0 |     0 | 1.0000
+1. Iris-versicolor ||     0 |    18 |     5 | 0.7826
+2.  Iris-virginica ||     0 |     1 |    22 | 0.9565
+                   ||========================
+Precision          ||1.0000 |0.9474 |0.8148 |
